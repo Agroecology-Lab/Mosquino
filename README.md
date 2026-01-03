@@ -13,3 +13,5 @@ Originally in EasyEDA [Schematic](https://easyeda.com/editor#id=8d445a3563794274
 Converted to Kicad and uploaded here. Designed for [SimpleFOC](https://community.simplefoc.com/search?q=mosquino) and [Yukon carrier](https://shop.pimoroni.com/products/yukon?variant=41185258111059) by Pimoroni
 
 As it is a derviative of the [Mosquito](https://community.simplefoc.com/t/mosquito-board-new-design/1621/22?u=sam) board the [Mosquito manual](https://drive.google.com/file/u/1/d/1Ev1wcCPXnmiUsTl4JunoNijvsclqJlB7/view) should largely apply
+
+Suitable motors might include [GB2208 from T-motor](https://s.click.aliexpress.com/e/_c35e97nl) It is designed to be plug and play with encoders from [Small robots on Tindie](https://www.tindie.com/stores/smallrobots/)
