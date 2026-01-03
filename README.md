@@ -7,4 +7,4 @@ Originally in EasyEDA [Schematic](https://easyeda.com/editor#id=8d445a3563794274
 
 ![render of back of pcb](https://raw.githubusercontent.com/Agroecology-Lab/Mosquino/refs/heads/main/images/Screenshot%20From%202026-01-03%2016-54-53.png) 
 
-Converted to Kicad and uploaded here. Designed for [Yukon carrier](https://shop.pimoroni.com/products/yukon?variant=41185258111059) by Pimoroni
+Converted to Kicad and uploaded here. Designed for [SimpleFOC](https://community.simplefoc.com/search?q=mosquino) and [Yukon carrier](https://shop.pimoroni.com/products/yukon?variant=41185258111059) by Pimoroni
